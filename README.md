@@ -33,7 +33,7 @@ Criado com roteiro gerado via chatgpt para introduzir pessoas no mundo web!
       align=left 
       margin=10 
       width=80 
-      src="https://www.notion.so/image/attachment%3Aee3db71e-83cd-49e0-91b7-64a66d0ae4c4%3AImage02.png?id=2a8c0ae0-d44e-8125-8c0e-cd2379a80d7d&table=block&spaceId=9b77478b-590e-4448-a8da-cbf27f235334&width=250&userId=5e7fbd7e-fe08-4d8d-97c2-d32205e9915b&cache=v2    "
+      src="https://www.notion.so/image/attachment%3Aee3db71e-83cd-49e0-91b7-64a66d0ae4c4%3AImage02.png?id=2a8c0ae0-d44e-8125-8c0e-cd2379a80d7d&table=block&spaceId=9b77478b-590e-4448-a8da-cbf27f235334&width=250&userId=5e7fbd7e-fe08-4d8d-97c2-d32205e9915b&cache=v2"
     />
     <p>&nbsp&nbsp&nbspVinicius Mendes<br>
     &nbsp&nbsp&nbsp
