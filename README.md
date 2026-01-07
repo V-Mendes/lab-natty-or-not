@@ -33,12 +33,11 @@ Criado com roteiro gerado via chatgpt para introduzir pessoas no mundo web!
       align=left 
       margin=10 
       width=80 
-      src="https://www.notion.so/image/attachment%3Aee3db71e-83cd-49e0-91b7-64a66d0ae4c4%3AImage02.png?id=2a8c0ae0-d44e-8125-8c0e-cd2379a80d7d&table=block&spaceId=9b77478b-590e-4448-a8da-cbf27f235334&width=250&userId=5e7fbd7e-fe08-4d8d-97c2-d32205e9915b&cache=v2"
+      src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=4800"
     />
-    <p>&nbsp&nbsp&nbspVinicius Mendes<br>
-    &nbsp&nbsp&nbsp
     <a href="https://www.notion.so/VM-Podcast-AI-Studio-2a8c0ae0d44e81258c0ecd2379a80d7d?source=copy_link">
-    Notion</a>&nbsp;|&nbsp;
+    Notion
+    </a>
     
 ## Links 
 
