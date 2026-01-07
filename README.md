@@ -38,11 +38,8 @@ Criado com roteiro gerado via chatgpt para introduzir pessoas no mundo web!
     />
     <p>&nbsp&nbsp&nbspVinicius Mendes<br>
     &nbsp&nbsp&nbsp
-<p>
-    <a 
-        href="https://www.notion.so/VM-Podcast-AI-Studio-2a8c0ae0d44e81258c0ecd2379a80d7d?source=copy_link">
-        Notion
-    </a>
+    <a href="https://www.notion.so/VM-Podcast-AI-Studio-2a8c0ae0d44e81258c0ecd2379a80d7d?source=copy_link">
+    Notion</a>&nbsp;|&nbsp;
     
 ## Links 
 
